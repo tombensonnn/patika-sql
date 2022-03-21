@@ -1,0 +1,1 @@
+# PATİKA SQL ÖDEV 1
