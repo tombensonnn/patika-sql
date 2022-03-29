@@ -2,8 +2,8 @@
 
 SELECT title FROM film
 WHERE title LIKE '%n'
-ORDER BY length DESC;
-LIMIT 5
+ORDER BY length DESC
+LIMIT 5;
 
 -- 2- film tablosunda bulunan ve film ismi (title) 'n' karakteri ile biten en kısa (length) ikinci(6,7,8,9,10) 5 filmi(6,7,8,9,10) sıralayınız.
 
